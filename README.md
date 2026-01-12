@@ -4,7 +4,7 @@
 
 Explorando desenvolvimento web com **JavaScript, HTML, CSS e React**  
 
-Gosto de criar projetos que consomem APIs e transformam dados em experiências úteis — como o **buscador-especies**, que usa APIs da GBIF e outras fontes. Entretanto, estou aprendendo, experimentando e aberto a qualquer área que envolva construir e entender sistemas.
+Gosto de criar projetos que consomem APIs e transformam dados em experiências — como o **buscador-especies**, que usa APIs da GBIF e outras fontes. Entretanto, estou aprendendo, experimentando e aberto a qualquer área que envolva construir e entender sistemas.
 
 ---
 
