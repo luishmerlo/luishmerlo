@@ -4,7 +4,7 @@
 
 Explorando desenvolvimento web com **JavaScript, HTML, CSS e React**  
 
-Gosto de criar **projetos responsivos de front-end** e também tenho interesse em **projetos que consomem APIs** e transformam dados em experiências — como o **buscador-especies**. Entretanto, estou aprendendo, experimentando e aberto a qualquer área que envolva construir e entender sistemas.
+Gosto de criar **projetos responsivos de front-end** e também tenho interesse em **projetos que consomem APIs** e transformam dados em experiências - como o **buscador-especies**. Entretanto, estou aprendendo, experimentando e aberto a qualquer área que envolva construir e entender sistemas.
 
 ---
 
